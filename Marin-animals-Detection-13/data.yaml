@@ -1,0 +1,19 @@
+names:
+- Dolphin
+- Jellyfish
+- Sea turtle
+- Seahorse
+- Seal
+- Shark
+- Starfish
+- jellyfish
+nc: 8
+roboflow:
+  license: Public Domain
+  project: marin-animals-detection
+  url: https://universe.roboflow.com/bhavesh-chaudhari-hqreb/marin-animals-detection/dataset/13
+  version: 13
+  workspace: bhavesh-chaudhari-hqreb
+test: ../test/images
+train: Marin-animals-Detection-13/train/images
+val: Marin-animals-Detection-13/valid/images
